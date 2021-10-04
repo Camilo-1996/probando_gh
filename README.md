@@ -14,5 +14,5 @@ Esto es código inline: 'git.push'
 bloque de código:
 "git push
 git commit"	
----------------------------------*******
+---------------------------------******* <\br>
 Hola amiguitos que tal todo?
